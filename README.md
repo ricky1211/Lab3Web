@@ -20,10 +20,10 @@ screenshotnya.
 ### Tugas +
 1. Buatlah form yang menampilkan dropdown menu dan listbox dengan multiple selection.
 
-[Sourcecode](https://github.com/GilarSumilar/Lab3Web/blob/main/Dropdown%20%26%20Listbox.html)
+[Sourcecode](https://github.com/ricky1211/Lab3Web/blob/main/Lab3Drop.html)
 
 **Hasil tugas :**
-![T](Gambar/Tugas.png)   
+![T](Screenshot%20(254).png)   
 
 ## 1. Membuat Ordered List
 ![Gambar](Screenshot%20(247).png)
@@ -43,44 +43,36 @@ screenshotnya.
 
 ## 3. Membuat Description List
 
-![Gambar]()
+![Gambar](Screenshot%20(259).png)
 
 **Hasil :**
 
-![0.1](Gambar/3.png)
+![0.1](Screenshot%20(260).png)
 
 
 ## 4. Membuat Tabel
 
-![]()
+![Gambar](Screenshot%20(252).png)
 
 **Hasil :**
 
-![0.1](Gambar/4%20with%20change.png)
+![0.1](Screenshot%20(251).png)
 
 
-## 5. Menggabungkan Sel Data
+## 5. Membuat Form
 
-![]()
-
-**Hasil :**
-
-![0.1](Gambar/5.png)
-
-## 6. Membuat Form
-
-![]()
+![Gambar](Screenshot%20(256).png)
 
 **Hasil :**
 
-![0.1](Gambar/6.png)
+![0.1](Screenshot%20(255).png)
 
 
 ## 7. Menabahkan Style pada Form
 
-![]()
+![Gambar](Screenshot%20(258).png)
 
 **Hasil :**
 
-![0.1](Gambar/7.png)
+![0.1](Screenshot%20(257).png)
 
