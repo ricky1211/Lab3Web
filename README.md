@@ -23,56 +23,56 @@ screenshotnya.
 [Sourcecode](https://github.com/ricky1211/Lab3Web/blob/main/Lab3Drop.html)
 
 **Hasil tugas :**
-![T](Screenshot%20(254).png)   
+![](main/GAMBAR/Screenshot%20(254).png)   
 
 ## 1. Membuat Ordered List
-![Gambar](Screenshot%20(247).png)
+![](main/GAMBAR/Screenshot%20(247).png)
 **Hasil :**
 
-![0.1](Screenshot%20(248).png)
+![](main/GAMBAR/Screenshot%20(248).png)
 
 
 ## 2. Membuat Unorderd List
 
-![Gambar](Screenshot%20(249).png)
+![](main/GAMBAR/Screenshot%20(249).png)
 
 **Hasil :**
 
-![0.1](Screenshot%20(250).png)
+![](main/GAMBAR/Screenshot%20(250).png)
 
 
 ## 3. Membuat Description List
 
-![Gambar](Screenshot%20(259).png)
+![](main/GAMBAR/Screenshot%20(259).png)
 
 **Hasil :**
 
-![0.1](Screenshot%20(260).png)
+![](main/GAMBAR/Screenshot%20(260).png)
 
 
 ## 4. Membuat Tabel
 
-![Gambar](Screenshot%20(252).png)
+![](main/GAMBAR/Screenshot%20(252).png)
 
 **Hasil :**
 
-![0.1](Screenshot%20(251).png)
+![](main/GAMBAR/Screenshot%20(251).png)
 
 
 ## 5. Membuat Form
 
-![Gambar](Screenshot%20(256).png)
+![](main/GAMBAR/Screenshot%20(256).png)
 
 **Hasil :**
 
-![0.1](Screenshot%20(255).png)
+![](main/GAMBAR/Screenshot%20(255).png)
 
 
 ## 7. Menabahkan Style pada Form
 
-![Gambar](Screenshot%20(258).png)
+![](main/GAMBAR/Screenshot%20(258).png)
 
 **Hasil :**
 
-![0.1](Screenshot%20(257).png)
+![](main/GAMBAR/Screenshot%20(257).png)
 
