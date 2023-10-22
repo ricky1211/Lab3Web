@@ -26,24 +26,24 @@ screenshotnya.
 ![T](Gambar/Tugas.png)   
 
 ## 1. Membuat Ordered List
-![]()
+![Gambar](Screenshot%20(247).png)
 **Hasil :**
 
-![0.1](Gambar/1.png)
+![0.1](Screenshot%20(248).png)
 
 
 ## 2. Membuat Unorderd List
 
-![]()
+![Gambar](Screenshot%20(249).png)
 
 **Hasil :**
 
-![0.1](Gambar/2.png)
+![0.1](Screenshot%20(250).png)
 
 
 ## 3. Membuat Description List
 
-![]()
+![Gambar]()
 
 **Hasil :**
 
